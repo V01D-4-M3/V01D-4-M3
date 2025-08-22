@@ -1,17 +1,18 @@
 # Hello World and other! 👋
-
 ## I'm Dmitry, nice to meet you!
 
-> *A Programming Student | Future Data Scientist & Robotics Engineer*
-
----
+<p style="color: #cdcdcdff; font-style: italic;">A Programming Student | Future Data Scientist & Robotics Engineer</p>
 
 ### 🧑‍💻 About Me
+
+<div style="border: 2px solid #808080; padding: 20px; margin: 20px 0;">
 
 *   🎓 I'm a **top-performing student** in a Russian college, majoring in Software Development.
 *   🚀 **Striving for excellence**: Constantly working on myself to deepen my knowledge and practical skills.
 *   🧠 **Passionate about** Data Science, Machine Learning, and the vast possibilities of Robotics.
 *   💡 I enjoy turning complex problems into simple, beautiful solutions.
+
+</div>
 
 ---
 
@@ -37,5 +38,13 @@
 ---
 
 ### 📫 How to Reach Me
-[![Telegram](https://img.icons8.com/?size=50&id=103814&format=png&color=000000)](https://t.me/thats_me_pop_the_champagne)
-[![Gmail](https://img.icons8.com/?size=50&id=42916&format=png&color=000000)](mailto:tda.w51146@gmail.com)
+
+<p align="center">
+  <a href="https://t.me/thats_me_pop_the_champagne">
+    <img src="https://img.icons8.com/ios/50/808080/telegram-app.png" alt="Telegram" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tda.w51146@gmail.com">
+    <img src="https://img.icons8.com/ios/50/808080/gmail.png" alt="Gmail" width="40" height="40">
+  </a>
+</p>
