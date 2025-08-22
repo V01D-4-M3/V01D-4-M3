@@ -1,6 +1,6 @@
 # Hello World and other! 👋
 
-## I'm Dmitry, Nice to meet you!
+## I'm Dmitry, nice to meet you!
 
 > *A Programming Student | Future Data Scientist & Robotics Engineer*
 
