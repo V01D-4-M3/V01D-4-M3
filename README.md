@@ -37,5 +37,5 @@
 ---
 
 ### 📫 How to Reach Me
-[![Telegram](https://img.icons8.com/?size=50&id=TCnKnYZFoOzM&format=png&color=000000)](https://t.me/thats_me_pop_the_champagne)
-[![Gmail](https://img.icons8.com/?size=50&id=rUgzXdXFnhmg&format=png&color=000000)](mailto:tda.w51146@gmail.com)
+[![Telegram](https://img.icons8.com/?size=50&id=103814&format=png&color=000000)](https://t.me/thats_me_pop_the_champagne)
+[![Gmail](https://img.icons8.com/?size=50&id=42916&format=png&color=000000)](mailto:tda.w51146@gmail.com)
