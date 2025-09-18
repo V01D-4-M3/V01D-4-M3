@@ -9,7 +9,7 @@
 
 *   🎓 I'm a **top-performing student** in a Russian college, majoring in Software Development.
 *   🚀 **Striving for excellence**: Constantly working on myself to deepen my knowledge and practical skills.
-*   🧠 **Passionate about** Data Science, Machine Learning, and the vast possibilities of Robotics.
+*   🧠 **Passionate about** Soft Develop, Machine Learning, and the vast possibilities of Robotics.
 *   💡 I enjoy turning complex problems into simple, beautiful solutions.
 
 </div>
